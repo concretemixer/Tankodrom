@@ -22,6 +22,10 @@ ModelImporter:
     100028: Cliff1
     100030: Border1
     100032: Border2
+    100034: Border2 1
+    100036: Cliff2
+    100038: Border003
+    100040: Ground1
     400000: Floor1
     400002: Floor2
     400004: Floor3
@@ -39,6 +43,10 @@ ModelImporter:
     400028: Cliff1
     400030: Border1
     400032: Border2
+    400034: Border2 1
+    400036: Cliff2
+    400038: Border003
+    400040: Ground1
     2300000: Floor1
     2300002: Floor2
     2300004: Floor3
@@ -55,6 +63,10 @@ ModelImporter:
     2300026: Cliff1
     2300028: Border1
     2300030: Border2
+    2300032: Border2 1
+    2300034: Cliff2
+    2300036: Border003
+    2300038: Ground1
     3300000: Floor1
     3300002: Floor2
     3300004: Floor3
@@ -71,6 +83,10 @@ ModelImporter:
     3300026: Cliff1
     3300028: Border1
     3300030: Border2
+    3300032: Border2 1
+    3300034: Cliff2
+    3300036: Border003
+    3300038: Ground1
     4300000: Floor1
     4300002: Floor2
     4300004: Floor3
@@ -87,6 +103,10 @@ ModelImporter:
     4300026: Cliff1
     4300028: Border1
     4300030: Border2
+    4300032: Border2
+    4300034: Cliff2
+    4300036: Ground1
+    4300038: Border003
     7400000: Take 001
     9500000: //RootNode
   materials:
