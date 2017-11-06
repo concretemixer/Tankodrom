@@ -20,6 +20,8 @@ ModelImporter:
     100024: WallOut1
     100026: WallOut2
     100028: Cliff1
+    100030: Border1
+    100032: Border2
     400000: Floor1
     400002: Floor2
     400004: Floor3
@@ -35,6 +37,8 @@ ModelImporter:
     400024: WallOut1
     400026: WallOut2
     400028: Cliff1
+    400030: Border1
+    400032: Border2
     2300000: Floor1
     2300002: Floor2
     2300004: Floor3
@@ -49,6 +53,8 @@ ModelImporter:
     2300022: WallOut1
     2300024: WallOut2
     2300026: Cliff1
+    2300028: Border1
+    2300030: Border2
     3300000: Floor1
     3300002: Floor2
     3300004: Floor3
@@ -63,6 +69,8 @@ ModelImporter:
     3300022: WallOut1
     3300024: WallOut2
     3300026: Cliff1
+    3300028: Border1
+    3300030: Border2
     4300000: Floor1
     4300002: Floor2
     4300004: Floor3
@@ -77,6 +85,9 @@ ModelImporter:
     4300022: WallOut2
     4300024: WallOut1
     4300026: Cliff1
+    4300028: Border1
+    4300030: Border2
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
