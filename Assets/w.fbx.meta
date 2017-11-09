@@ -10,6 +10,8 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: New Game Object
+    4300002: Floor_1
+    4300004: Walls_1
   materials:
     importMaterials: 1
     materialName: 1

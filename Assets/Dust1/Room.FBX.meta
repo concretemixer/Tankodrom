@@ -27,6 +27,12 @@ ModelImporter:
     100038: Border003
     100040: Ground1
     100042: Ground2
+    100044: Border_1
+    100046: Ground_1
+    100048: Floor_1
+    100050: Floor_2
+    100052: Floor_3
+    100054: Floor_4
     400000: Floor1
     400002: Floor2
     400004: Floor3
@@ -49,6 +55,12 @@ ModelImporter:
     400038: Border003
     400040: Ground1
     400042: Ground2
+    400044: Border_1
+    400046: Ground_1
+    400048: Floor_1
+    400050: Floor_2
+    400052: Floor_3
+    400054: Floor_4
     2300000: Floor1
     2300002: Floor2
     2300004: Floor3
@@ -70,6 +82,12 @@ ModelImporter:
     2300036: Border003
     2300038: Ground1
     2300040: Ground2
+    2300042: Border_1
+    2300044: Ground_1
+    2300046: Floor_1
+    2300048: Floor_2
+    2300050: Floor_3
+    2300052: Floor_4
     3300000: Floor1
     3300002: Floor2
     3300004: Floor3
@@ -91,6 +109,12 @@ ModelImporter:
     3300036: Border003
     3300038: Ground1
     3300040: Ground2
+    3300042: Border_1
+    3300044: Ground_1
+    3300046: Floor_1
+    3300048: Floor_2
+    3300050: Floor_3
+    3300052: Floor_4
     4300000: Floor1
     4300002: Floor2
     4300004: Floor3
@@ -112,6 +136,12 @@ ModelImporter:
     4300036: Ground1
     4300038: Border003
     4300040: Ground2
+    4300042: Border_1
+    4300044: Ground_1
+    4300046: Floor_1
+    4300048: Floor_2
+    4300050: Floor_3
+    4300052: Floor_4
     7400000: Take 001
     9500000: //RootNode
   materials:
